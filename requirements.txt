@@ -1,0 +1,9 @@
+accelerate
+diffusers
+gradio
+numpy
+torch
+safetensors
+transformers
+opencv-python
+git+https://github.com/deepseek-ai/Janus
