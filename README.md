@@ -20,6 +20,7 @@ Ensure you have the following dependencies installed:
 ### Install Dependencies
 ```sh
 pip install torch torchvision torchaudio transformers gradio numpy pillow
+pip install -r requirements.txt
 ```
 
 ## Usage
