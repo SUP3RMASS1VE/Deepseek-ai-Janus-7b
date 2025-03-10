@@ -1,6 +1,7 @@
 # Janus Pro 7B - Multimodal AI Model
 
 Janus Pro 7B is a powerful multimodal AI model designed for advanced image understanding and text-to-image generation. This project leverages the `deepseek-ai/Janus-Pro-7B` model, enabling high-quality visual and textual interactions.
+![Screenshot 2025-03-10 232506](https://github.com/user-attachments/assets/0f2caa6a-4232-4587-84b4-85c40dbb600e)
 
 ## Features
 - **Multimodal Understanding:** Analyze images and answer questions based on visual content.
